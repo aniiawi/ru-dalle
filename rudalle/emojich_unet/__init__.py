@@ -8,7 +8,7 @@ from huggingface_hub import hf_hub_url, cached_download
 MODELS = {
     'unet_effnetb5': dict(
         encoder_name='efficientnet-b5',
-        repo_id='sberbank-ai/rudalle-Emojich',
+        repo_id='ai-forever/rudalle-Emojich',
         filename='pytorch_model_v2.bin',
         classes=2,
     ),
