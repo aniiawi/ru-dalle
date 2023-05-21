@@ -29,7 +29,7 @@ MODELS = {
             vocab_size=16384 + 128,
             image_vocab_size=8192,
         ),
-        repo_id='sberbank-ai/rudalle-Malevich',
+        repo_id='ai-forever/rudalle-Malevich',
         filename='pytorch_model_v3.bin',
         authors='SberAI, SberDevices, shonenkovAI',
         full_description='',  # TODO
@@ -52,7 +52,7 @@ MODELS = {
             vocab_size=16384 + 128,
             image_vocab_size=8192,
         ),
-        repo_id='sberbank-ai/rudalle-Malevich',
+        repo_id='ai-forever/rudalle-Malevich',
         filename='pytorch_model_v2.bin',
         authors='SberAI, SberDevices, shonenkovAI',
         full_description='',  # TODO
@@ -75,7 +75,7 @@ MODELS = {
             vocab_size=16384 + 128,
             image_vocab_size=8192,
         ),
-        repo_id='sberbank-ai/rudalle-Emojich',
+        repo_id='ai-forever/rudalle-Emojich',
         filename='pytorch_model.bin',
         authors='SberAI, SberDevices, shonenkovAI',
         full_description='',  # TODO
@@ -121,7 +121,7 @@ MODELS = {
             vocab_size=16384 + 128,
             image_vocab_size=8192,
         ),
-        repo_id='sberbank-ai/rudalle-Kandinsky',
+        repo_id='ai-forever/rudalle-Kandinsky',
         filename='pytorch_model.bin',
         authors='SberAI, SberDevices, shonenkovAI',
         full_description='',  # TODO
